@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#maintxt{
+    font-family: 'Verdana';
+    font-style: normal;
+    color: yellow;
+}
+
+#home-el{
+    
+    font-style: strong;
+    color: #F94F6D;
+}
+
+#guest-el{
+    
+    font-style: strong;
+    color: #F94F6D;
+}
+
+#btn{
+    background-color: aquamarine;
+    border-color: black;
+    color: black;
+    border-radius: 6px;
+    font-family: 'Cursed Timer ULiL';
+}
+
+#newbtn{
+    border-radius: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: grey 
+}
+
+.new{
+    margin-top: 20px;
+    text-align: center;
+}
